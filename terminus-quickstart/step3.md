@@ -1,2 +1,7 @@
-## Learn More
-[Displaying Tabs](https://katacoda.com/scenario-examples/scenarios/dashboard-tabs) and [embedding iFrames](https://katacoda.com/scenario-examples/scenarios/dashboard-tabs-iframe)
+## Run the Terminus Container
+`./terminus-container run`{{execute}}
+
+## Generated Web Link
+
+https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com
+

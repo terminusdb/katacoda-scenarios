@@ -4,6 +4,6 @@
 ## cd into the quickstart directort
 `cd terminus-quickstart`{{execute}}
 
-## Run the Terminus Container
-`./terminus-container run`{{execute}}
+## Show terminus-container usage
+`./terminus-container`{{execute}}
 
