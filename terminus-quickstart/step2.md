@@ -17,9 +17,9 @@ container.
 
 ### Set Web Console Port
 
-Set the port to the standard web port 80
+Set the port to the standard https web port 443
 
-`export TERMINUS_PORT=80`{{execute}}
+`export TERMINUS_PORT=443`{{execute}}
 
 ### Set Web Console to Use https
 
