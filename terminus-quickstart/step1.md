@@ -1,8 +1,11 @@
-## Start HTTP Server
-`docker run -p 80:80 -d katacoda/docker-http-server`{{execute}}
+## Clone terminus-quickstart
+`git clone https://github.com/terminusdb/terminus-quickstart.git`{{execute}}
 
-## Test
-`curl localhost`{{execute}}
+## cd into the quickstart directort
+`cd terminus-quickstart`{{execute}}
+
+## Run the Terminus Container
+`./terminus-container run`{{execute}}
 
 ## Generated Web Link
 
