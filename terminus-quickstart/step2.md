@@ -15,18 +15,6 @@ container.
 
 `export TERMINUS_SERVER=[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com`{{execute}}
 
-### Set Web Console Port
-
-Set the port to the standard https web port 443
-
-`export TERMINUS_PORT=443`{{execute}}
-
-### Set Web Console to Use https
-
-Set the the web protol to https
-
-`export TERMINUS_SCHEME=https`{{execute}}
-
 ### Set Server API Key
 
 Set a server password
