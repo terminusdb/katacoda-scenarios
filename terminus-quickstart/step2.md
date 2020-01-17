@@ -13,7 +13,7 @@ Set the version to v1.1.1
 Set the server name to be the automatically generated name of this turorial
 container.
 
-`export SERVER_NAME=[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com`{{execute}}
+`export SERVER=[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com`{{execute}}
 
 ### Set Web Console Port
 
