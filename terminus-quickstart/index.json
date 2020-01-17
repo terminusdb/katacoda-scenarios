@@ -1,6 +1,6 @@
 {
-    "title": "Displaying Web UI ",
-    "description": "Learn how to access a Web UI running on the environment",
+    "title": "TerminusDB Quickstart",
+    "description": "Learch how to run TerminusDB as a Docker container",
     "difficulty": "easy",
     "time": "10 minutes",
     "details": {
