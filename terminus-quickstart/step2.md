@@ -2,6 +2,13 @@
 
 You can use enviroment variables to change the scipts settings
 
+
+### Set Server host
+
+Set the server host to this tutorial container
+
+`export TERMINUS_SERVER="[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com"`{{execute}}
+
 ### Set Server port to 80
 
 Set the http port to 80 to that the console can access via the ingress
