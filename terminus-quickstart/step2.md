@@ -1,4 +1,4 @@
-## Step 2: Configure with Environment Variabls
+## Step 2: Configure with Environment Variables
 
 You can use enviroment variables to change the scipts settings
 
