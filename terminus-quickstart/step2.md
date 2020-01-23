@@ -23,9 +23,9 @@ Set the http port to 80 to that the console can access via the ingress
 
 ### Set Desired TerminusDB Server Version
 
-Set the version to v1.1.1
+Set the version to dev
 
-`export TERMINUS_TAG=v1.1.1`{{execute}}
+`export TERMINUS_TAG=dev`{{execute}}
 
 ### Set Server API Key
 
