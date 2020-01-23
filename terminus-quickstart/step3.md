@@ -8,5 +8,5 @@ Run the Terminus Server container using the script
 
 Use the following link to access the web console for the Terminus Server
 
-https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com/console
+Console: https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.katacoda.com/console
 
