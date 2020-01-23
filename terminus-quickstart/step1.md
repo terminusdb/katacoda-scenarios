@@ -16,7 +16,7 @@ Go into the filesystem folder which contains the script.
 
 ### Show terminus-container usage
 
-Verify the script is present by showings it usage
+Verify the script is present by showing its usage
 
 `./terminus-container`{{execute}}
 
