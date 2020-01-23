@@ -22,7 +22,7 @@ Verify the script is present by showing its usage
 
 ### Update the script
 
-In the future, you be able to get the most recent version of this script by
+In the future, you will be able to get the most recent version of this script by
 using git pull
 
 `git pull`{{execute}}
