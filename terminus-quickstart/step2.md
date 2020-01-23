@@ -21,12 +21,6 @@ Set the http port to 80 to that the console can access via the ingres
 
 `export TERMINUS_PORT=80`{{execute}}
 
-### Set Desired TerminusDB Server Version
-
-Set the version to dev
-
-`export TERMINUS_TAG=dev`{{execute}}
-
 ### Set Server API Key
 
 Set a server password
